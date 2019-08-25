@@ -1,0 +1,23 @@
+0->0.3
+3->0.1
+
+TMS=1
+Final Schedule:
+
+Final Schedule:
+1:0 0.3
+2:3 0.1
+
+
+Max storage needed=0
+0
+Max_add=-1
+Valve used=0
+0
+Max_add=0
+Valve used=0
+0
+Max_add=0
+Valve used=0
+
+time=0.000486

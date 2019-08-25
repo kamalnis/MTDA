@@ -1,0 +1,147 @@
+0->0.1
+3->0.1
+
+Inside while
+Schedule in mixer11nishant2
+Schedule in mixer21nishant2
+L1:
+L2:nishant3nishant30->0.1
+3->0.1
+
+L1 size=0
+TMS=1
+Final Schedule:
+
+Max storage needed=0
+0
+Max_add=-1
+Valve used=0
+0
+Max_add=0
+Valve used=0
+0
+Max_add=0
+Valve used=0
+2 2 2 0
+6->0.1
+9->0.1
+
+Inside while
+Schedule in mixer11nishant2
+Schedule in mixer21nishant2
+L1:
+L2:nishant3nishant36->0.1
+9->0.1
+
+L1 size=0
+TMS=1
+Final Schedule:
+
+Max storage needed=0
+0
+Max_add=-1
+Valve used=0
+0
+Max_add=0
+Valve used=0
+0
+Max_add=0
+Valve used=0
+2 2 2 0
+12->0.1
+15->0.1
+
+Inside while
+Schedule in mixer11nishant2
+Schedule in mixer21nishant2
+L1:
+L2:nishant3nishant312->0.1
+15->0.1
+
+L1 size=0
+TMS=1
+Final Schedule:
+
+Max storage needed=0
+0
+Max_add=-1
+Valve used=0
+0
+Max_add=0
+Valve used=0
+0
+Max_add=0
+Valve used=0
+2 2 2 0
+18->0.1
+21->0.1
+
+Inside while
+Schedule in mixer11nishant2
+Schedule in mixer21nishant2
+L1:
+L2:nishant3nishant318->0.1
+21->0.1
+
+L1 size=0
+TMS=1
+Final Schedule:
+
+Max storage needed=0
+0
+Max_add=-1
+Valve used=0
+0
+Max_add=0
+Valve used=0
+0
+Max_add=0
+Valve used=0
+2 2 2 0
+24->0.1
+27->0.1
+
+Inside while
+Schedule in mixer11nishant2
+Schedule in mixer21nishant2
+L1:
+L2:nishant3nishant324->0.1
+27->0.1
+
+L1 size=0
+TMS=1
+Final Schedule:
+
+Max storage needed=0
+0
+Max_add=-1
+Valve used=0
+0
+Max_add=0
+Valve used=0
+0
+Max_add=0
+Valve used=0
+2 2 2 0
+33->0.1
+
+Inside while
+Schedule in mixer11nishant2
+Schedule in mixer2nishant2
+L1:
+L2:nishant333->0.1
+
+L1 size=0
+TMS=1
+Final Schedule:
+
+Max storage needed=0
+0
+Max_add=-1
+Valve used=0
+0
+Max_add=0
+Valve used=0
+0
+Max_add=0
+Valve used=0
